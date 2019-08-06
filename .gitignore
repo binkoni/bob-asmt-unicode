@@ -1,0 +1,3 @@
+cppcore/
+*.o
+unicode
